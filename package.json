@@ -1,0 +1,21 @@
+{
+  "name": "@sjeremich23/pwa-utils",
+  "version": "1.2.4",
+  "main": "index.js",
+  "module": "index.mjs",
+  "author": "Shane Jeremich",
+  "license": "ISC",
+  "description": "Utility file for validation functions for name, email, phone, password, and birthday.",
+  "keywords": [
+    "validation",
+    "middleware",
+    "express",
+    "name",
+    "email",
+    "phone",
+    "password",
+    "birthday",
+    "api",
+    "backend"
+  ]
+}
